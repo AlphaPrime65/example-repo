@@ -1,4 +1,4 @@
 # README.md
 
 
-This is a Sampel reporsitory
+This is a Sample Repository
